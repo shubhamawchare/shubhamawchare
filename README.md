@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Awchare
 
-I'm a .NET Developer and Game Programmer passionate about building robust web applications and immersive game experiences.
+I'm a .NET Developer and Game Designer passionate about building robust web applications and immersive game experiences.
 
 🔧 I specialize in:
 - C#, ASP.NET Core MVC, Entity Framework Core
