@@ -11,7 +11,7 @@ I'm a .NET Developer and Game Programmer passionate about building robust web ap
 ## 🚀 Featured Projects
 
 ### 💻 Web & .NET Development
-- **[MiniECommerceApp](https://github.com/shubhamawchare)** – Full-stack e-commerce app with cart, admin roles, identity login, Bootstrap UI
+- **MiniECommerceApp** – Full-stack e-commerce app with cart, admin roles, identity login, Bootstrap UI
 - **Expense Tracker** – Track and visualize expenses using charts, filters, and secure user login
 - **Blog & Notes Apps** – Clean MVC-based apps with full CRUD functionality and authentication
 - **Job Portal System** – Role-based job listing and application platform with admin and user dashboards
