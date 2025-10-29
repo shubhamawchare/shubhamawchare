@@ -11,7 +11,7 @@ I'm a .NET Developer and Game Developer passionate about building robust web app
 ## 🚀 Featured Projects
 
 ### 💻 Web & .NET Development
-- **Multi-LLM Chat & Translation Platform** – A comprehensive Node.js web application providing a unified interface for multiple AI providers, including OpenAI, Anthropic, Deepseek, Perplexity, etc.
+- **Multi-LLM Chat & Translation Platform** – A comprehensive Node.js web application providing a unified interface for multiple AI providers, including OpenAI, Anthropic, Deepseek, Perplexity,  Microsoft AI, Adobe AI, and Canva AI. Implemented a real-time translation system supporting 30+ languages with auto-detection capabilities and bulk translation features.
 - **MiniECommerceApp** – Full-stack e-commerce app with cart, admin roles, identity login, Bootstrap UI
 - **Cloud File Storage App** – A Google Drive–inspired cloud file manager. Upload, organize, preview, and share files — all with user authentication, dark mode, and modern UI
 - **Blog & Notes Apps** – Clean MVC-based apps with full CRUD functionality and authentication
