@@ -4,9 +4,9 @@ I'm a .NET Developer and Game Developer passionate about building robust web app
 
 🔧 I specialize in:
 - C#, ASP.NET Core MVC, Entity Framework Core, JavaScript
-- Razor Pages, REST APIs, SQL Server, HTML, CSS
-- Unity, Unreal Engine 5, Photon Engine, AWS, Docker
-- Manual & automation testing, Git, Jira, Azure, Python
+- Java, React, SQL Server, HTML, CSS, Power BI
+- Unity, Unreal Engine 5, Machine Learning, Deep Neural Networks
+- Data Analytics, NLP, TensorFlow, Git, Jira, Azure, Python
 
 ## 🚀 Featured Projects
 
