@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Shubham Awchare
+### 👋 Hi, I'm Shubham Awchare
 
-I'm a .NET Developer and Game Developer passionate about building robust web applications and immersive game experiences.
+I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
+Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 
 🔧 I specialize in:
 - C#, ASP.NET Core MVC, Entity Framework Core, JavaScript
