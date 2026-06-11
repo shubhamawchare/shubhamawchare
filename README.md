@@ -1,7 +1,7 @@
 <!-- Wave banner top -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 <!-- About GIF — terminal intro -->
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/master/about_shubham.gif" width="680" alt="About Shubham"/>
 </p>
 
