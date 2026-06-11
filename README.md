@@ -11,7 +11,7 @@
 
 ---
 
-### 👋 Hi, I'm Shubham Awchare
+### About ME
 
 I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
 Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
