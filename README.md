@@ -1,5 +1,8 @@
 <!-- Wave banner top -->
 <img src="https://camo.githubusercontent.com/d445b917b730ae635c2838929830ab097f73575f0a30ba5b4126dfa9a4b884f0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3335353837322c3130303a323433423535266865696768743d3134302673656374696f6e3d686561646572" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=4000&pause=800&color=355872&width=650&lines=Hi%2C%20I%27m%20Shubham%20Awchare)](https://git.io/typing-svg)
+
 <!-- About GIF — terminal intro -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/master/about_shubham.gif" width="680" alt="About Shubham"/>
