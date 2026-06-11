@@ -118,6 +118,13 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamawchare&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamawchare&layout=compact&theme=dark&hide_border=true)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 <!-- Wave banner bottom -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
