@@ -2,14 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 <!-- Terminal intro block -->
 <div align="center">
-```
-/home/shubham $ cat fullstack_profile.json
-```
  
 </div>
-```json
 https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/master/about_shubham.gif
-```
+
 
 ---
 
