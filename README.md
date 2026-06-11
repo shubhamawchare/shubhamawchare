@@ -29,7 +29,7 @@ I build production web apps in **C# / ASP.NET Core / React / Azure** and have sh
 Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 
 🔧 I specialize in:
-p>
+<p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
