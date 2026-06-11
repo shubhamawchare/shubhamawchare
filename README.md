@@ -28,7 +28,7 @@
 I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
 Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 
-🔧 I specialize in:
+### 🛠️ Tech Stack: 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,10 +63,27 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
-- C#, ASP.NET Core MVC, Entity Framework Core, JavaScript
-- Java, React, SQL Server, HTML, CSS, Power BI
-- Unity, Unreal Engine 5, Machine Learning, Deep Neural Networks
-- Data Analytics, NLP, TensorFlow, Git, Jira, Azure, Python
+**Languages**
+`C#` `Python` `JavaScript` `TypeScript` `Java` `C++` `SQL`
+ 
+**Web & Backend**
+`ASP.NET Core MVC` `Entity Framework Core` `React` `Node.js` `REST APIs` `Razor Pages` `Bootstrap`
+ 
+**Data & AI/ML**
+`TensorFlow` `PyTorch` `scikit-learn` `Pandas` `NumPy` `OpenCV` `MediaPipe` `NLTK` `spaCy` `NLP` `CNN` `LSTM`
+ 
+**Cloud & DevOps**
+`Azure` `Docker` `CI/CD` `Git` `GitHub Actions` `Jenkins` `Kubernetes`
+ 
+**Databases**
+`SQL Server` `PostgreSQL` `MongoDB`
+ 
+**Game Dev**
+`Unity` `Unreal Engine 5`  `Blueprint` `Photon Networking`
+ 
+**Tools**
+`Visual Studio` `VS Code` `Power BI` `Jira` `Agile / Scrum`
+ 
 
 ## 🚀 Featured Projects
 
