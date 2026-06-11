@@ -8,25 +8,17 @@
  
 </div>
 ```json
-{
-  "name": "Shubham Awchare",
-  "role": "Full-Stack .NET Developer · Game Developer · AI/ML Practitioner",
-  "core_stack": [
-    "C#", "ASP.NET Core", "Entity Framework Core",
-    "React", "SQL Server", "Azure"
-  ],
-  "also_building_with": ["Python", "TensorFlow", "OpenCV", "MediaPipe", "Unity", "Unreal Engine 5"],
-  "currently": "PGCP-AI @ C-DAC Pune — ML · Deep Learning · NLP · Computer Vision",
-  "open_to": "Junior .NET Developer / Graduate Software Engineer roles in the UK",
-  "contact": "shubhamawchare@gmail.com"
-}
+https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/master/about_shubham.gif
 ```
 
+---
 
 ### 👋 Hi, I'm Shubham Awchare
 
 I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
 Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
+
+---
 
 ### 🛠️ Tech Stack: 
 <p>
@@ -83,26 +75,48 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
  
 **Tools**
 `Visual Studio` `VS Code` `Power BI` `Jira` `Agile / Scrum`
- 
+
+---
 
 ## 🚀 Featured Projects
 
-### 💻 Web & .NET Development
-- **Multi-LLM Chat & Translation Platform** – A comprehensive Node.js web application providing a unified interface for multiple AI providers, including OpenAI, Anthropic, Deepseek, Perplexity,  Microsoft AI, Adobe AI, and Canva AI. Implemented a real-time translation system supporting 30+ languages with auto-detection capabilities and bulk translation features.
-- **MiniECommerceApp** – Full-stack e-commerce app with cart, admin roles, identity login, Bootstrap UI
-- **Cloud File Storage App** – A Google Drive–inspired cloud file manager. Upload, organize, preview, and share files — all with user authentication, dark mode, and modern UI
-- **Blog & Notes Apps** – Clean MVC-based apps with full CRUD functionality and authentication
-- **Job Portal System** – Role-based job listing and application platform with admin and user dashboards
-- **Weather & Quiz Apps** – Simple but interactive tools using RESTful APIs and clean UI
+### 🧠 AI/ML — C-DAC PGCP-AI
+ 
+| Project | Tech |
+|---------|------|
+| AI Virtual Keyboard | OpenCV · MediaPipe · Python |
+| CNN Digit Recognition (>99% acc) | TensorFlow · Keras · MNIST |
+| Face Mask Detector | MobileNetV2 · Transfer Learning |
+| Fake News Detector | TF-IDF · NLP · scikit-learn |
+| Sentiment Classifier | LSTM · Keras |
+| Autonomous E-Commerce Agent | PostgreSQL · SQLAlchemy · Streamlit |
 
+### 💻 Web & .NET
+ 
+| Project | Tech | Description |
+|---------|------|-------------|
+| [☁️ Cloud File Storage App](https://github.com/shubhamawchare/Cloud-File-Storage-App) | ASP.NET Core · EF Core · SQL Server · Identity | Google Drive–inspired file manager — upload, organize, preview, share, dark mode & token-based shareable links |
+| [🛍️ MiniECommerceApp](https://github.com/shubhamawchare/MiniECommerceApp) | ASP.NET Core · EF Core · Identity · Bootstrap 5 | Full-stack e-commerce with session cart, admin roles, and product management |
+| [🤖 Multi-LLM Chat & Translation Platform](https://github.com/shubhamawchare/Multi-LLM-Chat-Translation-Platform) | Node.js · JavaScript | Unified chat for OpenAI, Anthropic, DeepSeek, Perplexity + real-time translation in 30+ languages |
+| [🌐 Job Portal System](https://github.com/shubhamawchare/Job-Portal) | ASP.NET Core · Identity | Role-based job listing and application platform |
+| [📝 Blog & Notes Apps](https://github.com/shubhamawchare) | ASP.NET Core · Razor | Clean CRUD apps with authentication and responsive views |
+ 
 ### 🎮 Game Development
-- **Future Shock** – Multiplayer third-person shooter (Unity + Photon)
-- **Drone Shooter** – UE5 first-person drone combat prototype using blueprints
-- **Farm Soccer** – Fun bird-football game built in Unity using C#
+ 
+| Project | Tech | Description |
+|---------|------|-------------|
+| [🚁 Killer Drones](https://github.com/shubhamawchare/Killer-Drones) | Unreal Engine 5 · Blueprint | First-person drone combat shooter |
+| [🔫 Future Shock](https://github.com/shubhamawchare/Future-Shock) | Unity · C# · Photon | Multiplayer third-person shooter |
+| ⚽ Farm Soccer | Unity · C# | Birds-play-football arcade game |
+ 
+---
 
 ## 🎓 Education
-- MSc in Game Development, Manchester Metropolitan University, UK  
+- PGCP in Artificial Intelligence, Centre for Development of Advanced Computing, India
+- MSc in Game Development, Manchester Metropolitan University, UK
 - BCA in Game Development, Tilak Maharashtra Vidyapeeth, India
+
+---
 
 ## 📊 GitHub Stats
  
@@ -113,6 +127,3 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 ---
-
-
-
