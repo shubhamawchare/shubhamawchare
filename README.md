@@ -28,13 +28,6 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 - MSc in Game Development, Manchester Metropolitan University, UK  
 - BCA in Game Development, Tilak Maharashtra Vidyapeeth, India
 
-## 🔍 Currently looking for:
-- Junior .NET Developer / Graduate Software Engineer roles in the UK  
-- Opportunities in game programming, QA testing, or full-stack development
-
-📫 Reach out on [LinkedIn](https://www.linkedin.com/in/shubham-awchare/)  
-📂 Explore my repositories for code samples, projects, and ongoing work!
-
 ---
 
 
