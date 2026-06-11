@@ -28,6 +28,11 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 - MSc in Game Development, Manchester Metropolitan University, UK  
 - BCA in Game Development, Tilak Maharashtra Vidyapeeth, India
 
+## 📊 GitHub Stats
+ 
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamawchare&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamawchare&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 
