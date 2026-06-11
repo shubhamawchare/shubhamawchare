@@ -1,7 +1,7 @@
 <!-- Wave banner top -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header](https://camo.githubusercontent.com/d445b917b730ae635c2838929830ab097f73575f0a30ba5b4126dfa9a4b884f0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3335353837322c3130303a323433423535266865696768743d3134302673656374696f6e3d686561646572)" width="100%"/>
 <!-- About GIF — terminal intro -->
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/shubhamawchare/shubhamawchare/master/about_shubham.gif" width="680" alt="About Shubham"/>
 </p>
 
