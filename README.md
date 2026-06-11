@@ -1,3 +1,28 @@
+<!-- Wave banner top -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<!-- Terminal intro block -->
+<div align="center">
+```
+/home/shubham $ cat fullstack_profile.json
+```
+ 
+</div>
+```json
+{
+  "name": "Shubham Awchare",
+  "role": "Full-Stack .NET Developer · Game Developer · AI/ML Practitioner",
+  "core_stack": [
+    "C#", "ASP.NET Core", "Entity Framework Core",
+    "React", "SQL Server", "Azure"
+  ],
+  "also_building_with": ["Python", "TensorFlow", "OpenCV", "MediaPipe", "Unity", "Unreal Engine 5"],
+  "currently": "PGCP-AI @ C-DAC Pune — ML · Deep Learning · NLP · Computer Vision",
+  "open_to": "Junior .NET Developer / Graduate Software Engineer roles in the UK",
+  "contact": "shubhamawchare@gmail.com"
+}
+```
+
+
 ### 👋 Hi, I'm Shubham Awchare
 
 I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
