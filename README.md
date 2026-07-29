@@ -112,7 +112,7 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 ## 🎓 Education
 - PGCP in Artificial Intelligence, Centre for Development of Advanced Computing, India
 - MSc in Game Development, Manchester Metropolitan University, UK
-- BCA in Game Development, Tilak Maharashtra Vidyapeeth, India
+- BCA in Game and Mobile Software Development, Tilak Maharashtra Vidyapeeth, India
 
 ---
 
