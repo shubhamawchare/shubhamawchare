@@ -82,12 +82,12 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
  
 | Project | Tech |
 |---------|------|
-| AI Virtual Keyboard | OpenCV · MediaPipe · Python |
+| [AI Virtual Keyboard](https://github.com/shubhamawchare/AI-Powered-Virtual-Keyboard) | OpenCV · MediaPipe · Python |
 | CNN Digit Recognition (>99% acc) | TensorFlow · Keras · MNIST |
-| Face Mask Detector | MobileNetV2 · Transfer Learning |
-| Fake News Detector | TF-IDF · NLP · scikit-learn |
+| [Autotrader-UK-Car-Sales-Data](https://github.com/shubhamawchare/Autotrader-UK-Car-Sales-Data) | scikit-learn · Matplotlib · Seaborn · Plotly |
+| TalentScout — AI-Powered Hiring Assistant | Streamlit · Anthropic Claude API |
 | Sentiment Classifier | LSTM · Keras |
-| Autonomous E-Commerce Agent | PostgreSQL · SQLAlchemy · Streamlit |
+| [Autonomous E-Commerce Agent](https://github.com/shubhamawchare/Autonomous-E-Commerce-Operation-Agent) | RAG · LangGraph · Streamlit |
 
 ### 💻 Web & .NET
  
