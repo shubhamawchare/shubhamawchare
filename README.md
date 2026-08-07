@@ -40,6 +40,13 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-7B68EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
