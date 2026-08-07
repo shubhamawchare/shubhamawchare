@@ -105,7 +105,7 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
 |---------|------|-------------|
 | [🚁 Killer Drones](https://github.com/shubhamawchare/Killer-Drones) | Unreal Engine 5 · Blueprint | First-person drone combat shooter |
 | [🔫 Future Shock](https://github.com/shubhamawchare/Future-Shock) | Unity · C# · Photon | Multiplayer third-person shooter |
-| ⚽ [Farm Soccer](https://github.com/shubhamawchare/Farm-Soccer) | Unity · C# | Birds-play-football arcade game |
+| [⚽ [Farm Soccer]](https://github.com/shubhamawchare/Farm-Soccer) | Unity · C# | Birds-play-football arcade game |
  
 ---
 
