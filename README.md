@@ -101,7 +101,7 @@ I am an **AI/ML Engineer and Full-Stack Developer** bridging traditional enterpr
 | [AI Virtual Keyboard](https://github.com/shubhamawchare/AI-Powered-Virtual-Keyboard) | OpenCV · MediaPipe · Python |
 | CNN Digit Recognition (>99% acc) | TensorFlow · Keras · MNIST |
 | [Autotrader-UK-Car-Sales-Data](https://github.com/shubhamawchare/Autotrader-UK-Car-Sales-Data) | scikit-learn · Matplotlib · Seaborn · Plotly |
-| TalentScout — AI-Powered Hiring Assistant | Streamlit · Anthropic Claude API |
+| [TalentScout — AI-Powered Hiring Assistant](https://github.com/shubhamawchare/TalentScout---AI-Powered-Hiring-Assistant) | Streamlit · Anthropic Claude API |
 | Sentiment Classifier | LSTM · Keras |
 | [Autonomous E-Commerce Agent](https://github.com/shubhamawchare/Autonomous-E-Commerce-Operation-Agent) | RAG · LangGraph · Streamlit |
 
