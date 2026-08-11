@@ -13,8 +13,12 @@
 
 ### About ME
 
-I build production web apps in **C# / ASP.NET Core / React / Azure** and have shipped gameplay systems in **Unity** and **Unreal Engine 5**.  
-Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
+I am an **AI/ML Engineer and Full-Stack Developer** bridging traditional enterprise backends (**C# / .NET Core / React / Azure**) with production-ready **Generative AI systems**[cite: 6]. 
+
+- 🤖 **Applied AI & LLMs:** Building multi-agent automation systems using **LangGraph**, **RAG**, and multi-LLM integrations across **OpenAI, Anthropic, and DeepSeek**[cite: 6].
+- 🌐 **Enterprise Full-Stack:** Designing scalable web platforms, microservices, and databases deployed on **Microsoft Azure** using **C#, ASP.NET Core, React, and SQL Server**[cite: 6].
+- 🎮 **Systems & Game Logic:** Experienced in low-level mechanics and high-performance gameplay systems in **Unity (C#)** and **Unreal Engine 5 (C++)**[cite: 6].
+- 🎓 **Education & Rigor:** Certified PGCP-AI from **C-DAC** and holding an **MSc in Game Development** from Manchester Metropolitan University[cite: 6].
 
 ---
 
@@ -121,10 +125,14 @@ Currently deepening my AI/ML foundations through a PGCP-AI at C-DAC.
  
 ---
 
-## 🎓 Education
-- PGCP in Artificial Intelligence, Centre for Development of Advanced Computing, India
-- MSc in Game Development, Manchester Metropolitan University, UK
-- BCA in Game and Mobile Software Development, Tilak Maharashtra Vidyapeeth, India
+## 🎓 Education & Certifications
+- PGCP in Artificial Intelligence, Centre for Development of Advanced Computing, India[cite: 6]
+- MSc in Game Development, Manchester Metropolitan University, UK[cite: 6]
+- BCA in Game and Mobile Software Development, Tilak Maharashtra Vidyapeeth, India[cite: 6]
+- 📜 **Google AI Professional Certificate** | *Coursera / Google*[cite: 6]
+- 📜 **Google Data Analysis with Python** | *Coursera / Google*[cite: 6]
+- 📜 **Foundational C# Certification** | *Microsoft / FreeCodeCamp*[cite: 6]
+- 📜 **Software Engineer** | *HackerRank*.[cite: 6]
 
 ---
 
