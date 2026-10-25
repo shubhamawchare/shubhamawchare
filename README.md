@@ -76,7 +76,7 @@ I am an **AI/ML Engineer and Full-Stack Developer** bridging traditional enterpr
 `ASP.NET Core MVC` `Entity Framework Core` `React` `Node.js` `REST APIs` `Razor Pages` `Bootstrap`
  
 **Data & AI/ML**
-`TensorFlow` `PyTorch` `scikit-learn` `Pandas` `NumPy` `OpenCV` `MediaPipe` `NLTK` `spaCy` `NLP` `CNN` `LSTM`
+`TensorFlow` `PyTorch` `scikit-learn` `Pandas` `NumPy` `OpenCV` `MediaPipe` `LangChain` `RAG` `NLP` `CNN` `LSTM`
  
 **Cloud & DevOps**
 `Azure` `Docker` `CI/CD` `Git` `GitHub Actions` `Jenkins` `Kubernetes`
